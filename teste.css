@@ -1,0 +1,45 @@
+
+body{
+  background:grey;
+}
+h1{
+  morgin-left:20px;
+}
+
+.container{
+  border: 3px solid red;
+  box-shadow: 0px 0px 10px;
+  padding:15px;
+  margin:15px;
+  height: 400px;
+}
+
+.container-calculadora-peso, .container-calculadora-altura{
+  margin-bottom: 10px;
+  width:65%;
+  
+     
+}
+
+.peso-slider, .altura-slider{
+ width: 100%;
+ height: 3px;
+  outline:nome
+}
+
+.input-number{
+  height:14px;
+  width: 200px;
+  margin-left:10px;
+  font-size:15px
+}
+
+.botao-calcular{
+  font-size:18px;
+    width:20%;
+  background:#1b2845;
+  color:white;
+  border:nome;
+  cursor:pointer;
+  padding:2px;
+}
